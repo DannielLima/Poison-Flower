@@ -1,4 +1,4 @@
-echo "*.php linguist-language=PHP" >> .gitattributes
-echo "*.html linguist-language=HTML" >> .gitattributes
-echo "*.css linguist-language=CSS" >> .gitattributes
-echo "*.js linguist-language=JavaScript" >> .gitattributes
+*.php linguist-language=PHP
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
