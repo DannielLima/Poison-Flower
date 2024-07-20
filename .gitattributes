@@ -1,0 +1,4 @@
+echo "*.php linguist-language=PHP" >> .gitattributes
+echo "*.html linguist-language=HTML" >> .gitattributes
+echo "*.css linguist-language=CSS" >> .gitattributes
+echo "*.js linguist-language=JavaScript" >> .gitattributes
